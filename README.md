@@ -7,7 +7,8 @@ System requirements:
   -Since the game is simple, it doesn't require a lot og storage usage;
   -Platforms: Android(4.1 and up), iOS(8.0 or later. Compatibile with iPhone,iPad and iPod touch), Windows Mobile, Steam (Windows, Linux, Mac OS X)
 
-Specification:
+-Specifications:
+-
    -The app can be downloaded for free from play and apple store;
    -It can be played with or without internet connection;
    -When it's downloaded and installed, it will ask for internet connection in case you want to compete with other users. It will also ask for storage permission in case you want to upload the profile picture;
@@ -18,4 +19,3 @@ Specification:
    -When you click START, the game will begin. The game is based only on tapping at the screen. Left part of the screen is for claning the snow at the left side of the road and right part of the screen is for cleaning the right part of the road. The big snowballs and lots of obstacles will appear randomly on the left or ight side of the road and you need to avoid them by clicking the other side of the screen. Up is the time bar of 10 second at the beginning. While you play the game and reach the levels, time bar will drop so you need to click faster so that you'll have less time noticing and avoiding the obstacles;
    -Once you hit the obstacle, the time will stop and the game will end, showing you your score and your place on the highscore table;
    -You'll have the TRY AGAIN button which will launch the game again and EXIT button;
-   -
