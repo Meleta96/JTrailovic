@@ -1,4 +1,4 @@
-*The name of the project is "Clean the way out". I chose this type of game because it's family friendly, everybody can play it and compete with each other. The game is simple, easy to play and it can be played on all platforms.
+The name of the project is "Clean the way out". I chose this type of game because it's family friendly, everybody can play it and compete with each other. The game is simple, easy to play and it can be played on all platforms.
 
 About:
 -
