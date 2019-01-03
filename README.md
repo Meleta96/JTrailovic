@@ -8,6 +8,7 @@ System requirements:
 -
   -Since the game is simple, it doesn't require a lot og storage usage;
   -Platforms: Android(4.1 and up), iOS(8.0 or later. Compatibile with iPhone,iPad and iPod touch), Windows Mobile, Steam (Windows, Linux, Mac OS X)
+  -Minimal system requirements for Windows: CPU:	1.0 GHz Processor, RAM:	2 GB RAM, GPU:	DirectX compatible graphics, OS:	Windows 7
 
 Specifications:
 -
