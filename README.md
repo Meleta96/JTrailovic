@@ -20,5 +20,6 @@ Specifications:
    -After you create your profile, you will be asked do you want to turn on notifications about the game (optional);
    -When the application is launched, 4 buttons will appear: START, HIGHSCORES, SETTINGS, EXIT. START - start the game. HIGHSCORES - see the best scores you and your friends made. SETTINGS - you can turn on/off music, change profile and login/logout, reset your highscores. EXIT - exit the game;
    -When you click START, the game will begin. The game is based only on tapping at the screen. Left part of the screen is for claning the snow at the left side of the road and right part of the screen is for cleaning the right part of the road. The big snowballs and lots of obstacles will appear randomly on the left or ight side of the road and you need to avoid them by clicking the other side of the screen. Up is the time bar of 10 second at the beginning. While you play the game and reach the levels, time bar will drop so you need to click faster so that you'll have less time noticing and avoiding the obstacles;
+   -The game will have PAUSE button but once you click it, the background screen will be blurred;
    -Once you hit the obstacle, the time will stop and the game will end, showing you your score and your place on the highscore table;
    -You'll have the TRY AGAIN button which will launch the game again and EXIT button;
