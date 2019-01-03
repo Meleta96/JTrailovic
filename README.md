@@ -1,13 +1,15 @@
-The name of the project is "Clean the way out". I chose this type of game because it's family friendly, everybody can play it and compete with each other. The game is simple, easy to play and it can be played on all platforms.
+*The name of the project is "Clean the way out". I chose this type of game because it's family friendly, everybody can play it and compete with each other. The game is simple, easy to play and it can be played on all platforms.
 
 About:
+-
   This is an traditional arcade style casual game. You can create your own character, clean the road and avoid the snow. Variable environments and several dozen avatars to unlock. 60+ customizable items and daily gifts available. You can challenge your friends and become the world's number one. Play up to 2 players against other two players. Take your snow shovel and clean the road as fast as you can.
 
 System requirements:
+-
   -Since the game is simple, it doesn't require a lot og storage usage;
   -Platforms: Android(4.1 and up), iOS(8.0 or later. Compatibile with iPhone,iPad and iPod touch), Windows Mobile, Steam (Windows, Linux, Mac OS X)
 
--Specifications:
+Specifications:
 -
    -The app can be downloaded for free from play and apple store;
    -It can be played with or without internet connection;
